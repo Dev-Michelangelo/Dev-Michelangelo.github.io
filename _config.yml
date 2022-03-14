@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Do Develop. Like Michelangelo.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'Dev-Michelangelo.github.io'
+url: ''
 
 github:
   username: Dev-Michelangelo            # change to your github username
