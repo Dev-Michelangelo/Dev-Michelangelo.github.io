@@ -4,7 +4,6 @@
   type: github
   icon: 'fab fa-github'
 -
-
   type: stack-overflow
    icon: 'fab fa-stack-overflow'
    url:  'https://stackoverflow.com/users/18460262/dev-michelangelo'                  # Fill with your stackoverflow homepage
