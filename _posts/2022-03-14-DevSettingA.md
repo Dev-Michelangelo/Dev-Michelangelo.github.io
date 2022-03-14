@@ -9,9 +9,9 @@ tags: [Setting]     # TAG names should always be lowercase
 
 환경
 
-MacBook Pro(Intel Core)
+- MacBook Pro(Intel Core)
 
-Monterey OS(Version 12.2.1)
+- Monterey OS(Version 12.2.1)
 
 ---
 
