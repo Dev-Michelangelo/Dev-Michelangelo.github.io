@@ -14,9 +14,12 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  type: instagram
+  icon: 'fa-brands fa-instagram'   # icons powered by <https://fontawesome.com/>
+  url:  ''                  # Fill with your Linkedin homepage
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
@@ -24,10 +27,10 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
 # -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   type: Instagram
+#   icon: 'fa-brands fa-instagram'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
--
+# -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  'https://stackoverflow.com/users/18460262/dev-michelangelo'                  # Fill with your stackoverflow homepage
