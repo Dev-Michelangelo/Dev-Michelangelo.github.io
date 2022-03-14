@@ -65,7 +65,7 @@ MacOS는 Homebrew 혹은 XCode 설치 시 git이 함께 설치됩니다.
 
 WindowOS     :
 
-MacOS        : [https://dev-michelangelo.github.io/posts/Homebrew/](hhttps://dev-michelangelo.github.io/posts/Homebrew/)
+MacOS        : [https://dev-michelangelo.github.io/posts/Homebrew/](https://dev-michelangelo.github.io/posts/Homebrew/)
 
 ## git Setting
 
