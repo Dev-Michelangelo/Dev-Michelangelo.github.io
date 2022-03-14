@@ -74,4 +74,4 @@ git config --global user.email "User email"
 git config --l
 ```
 
-![Screen Shot 2022-03-03 at 1.21.21 AM.png](//Post_img/MacOS/Git/Screen_Shot_2022-03-03_at_1.21.21_AM.png)
+![Screen Shot 2022-03-03 at 1.21.21 AM.png](/Post_img/MacOS/Git/Screen_Shot_2022-03-03_at_1.21.21_AM.png)
