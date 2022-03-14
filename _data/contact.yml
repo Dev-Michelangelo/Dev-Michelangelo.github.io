@@ -28,6 +28,6 @@
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Linkedin homepage
 -
-   type: stack-overflow
-   icon: 'fab fa-stack-overflow'
-   url:  'https://stackoverflow.com/users/18460262/dev-michelangelo'                  # Fill with your stackoverflow homepage
+#   type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  'https://stackoverflow.com/users/18460262/dev-michelangelo'                  # Fill with your stackoverflow homepage
