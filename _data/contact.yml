@@ -4,6 +4,9 @@
   type: github
   icon: 'fab fa-github'
 -
+   type: stack-overflow
+   icon: 'fab fa-stack-overflow'
+   url:  'https://stackoverflow.com/users/18460262/dev-michelangelo'   
   #type: twitter
   #icon: 'fab fa-twitter'
 -
