@@ -4,6 +4,15 @@ date: 2022-03-14 04:30:00 +09:00
 categories: [Git, git]
 tags: [git]     # TAG names should always be lowercase
 ---
+---
+
+환경
+
+- MacBook Pro(Intel Core)
+- Monterey OS(Version 12.2.1)
+- git version 2.32.0 (Apple Git-132)
+
+---
 
 ## Version Control System(VSC)
 
@@ -21,7 +30,7 @@ tags: [git]     # TAG names should always be lowercase
 
 VSC 의 버전관리(Version control), 소스관리(source control), 소스코드관리(source code management) 를 통해 동일한 정보에 관한 여러버전을 관리할 수 있고 팀 단위의 작업에서 서로간의 작업물 상태를 동일하게 유지시키는 기능이 있습니다. VSC 는 많은 종류가 있고 그 중 git 이 대표적입니다. 
 
-![git.png](/Post_img/MacOS/Git/git.png)
+![git.png](/Post_img/Git/What%20is%20git/git.png)
 
 ## git
 
@@ -74,4 +83,4 @@ git config --global user.email "User email"
 git config --l
 ```
 
-![Screen Shot 2022-03-03 at 1.21.21 AM.png](/Post_img/MacOS/Git/Screen_Shot_2022-03-03_at_1.21.21_AM.png)
+![Screen Shot 2022-03-03 at 1.21.21 AM.png](/Post_img/Git/What%20is%20git/Screen_Shot_2022-03-03_at_1.21.21_AM.png)
