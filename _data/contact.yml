@@ -15,7 +15,7 @@
   noblank: true            # open link in current tab
 -
   type: instagram
-  icon: 'fa-brands fa-instagram'   # icons powered by <https://fontawesome.com/>
+  icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
   url:  ''                  # Fill with your Linkedin homepage
 #  type: rss
 #  icon: 'fas fa-rss'
