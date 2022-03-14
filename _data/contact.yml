@@ -17,6 +17,11 @@
   type: instagram
   icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
   url:  ''                  # Fill with your Linkedin homepage
+-
+  type: discord
+  icon: 'fab fa-discord'
+  url:  'Dev_Michelangelo#3348'             # open link in current tab
+-
 #  type: rss
 #  icon: 'fas fa-rss'
 #  noblank: true
