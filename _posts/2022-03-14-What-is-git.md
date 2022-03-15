@@ -1,5 +1,5 @@
 ---
-title: What is git?
+title: What is git? - 깃 초기 설정 
 date: 2022-03-14 04:30:00 +09:00
 categories: [Git, git]
 tags: [git]     # TAG names should always be lowercase
