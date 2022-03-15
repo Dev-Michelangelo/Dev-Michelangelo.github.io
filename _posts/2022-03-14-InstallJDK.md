@@ -1,5 +1,5 @@
 ---
-title: Install JDK
+title: Install JDK(Java11,Java17)
 date: 2022-03-14 11:51:00 +09:00
 categories: [WindowOS, WebDev-Setting]
 tags: [setting]     # TAG names should always be lowercase

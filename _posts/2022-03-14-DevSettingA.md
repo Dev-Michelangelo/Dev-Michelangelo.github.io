@@ -1,5 +1,5 @@
 ---
-title: Dev_Setting A
+title: Dev_Setting on MacOS
 date: 2022-03-14 03:58:00 +09:00
 categories: [MacOS, Dev_Setting]
 tags: [Setting]     # TAG names should always be lowercase
