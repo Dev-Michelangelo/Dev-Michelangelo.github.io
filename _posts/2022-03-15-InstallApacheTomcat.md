@@ -71,7 +71,7 @@ Spring Legacy Project 를 사용하려면 17 Version 은 맞지 않습니다.
 
 보통 위 과정을 거치면 Server 가 생성이 되는데, 생성되지 않았습니다. 그래서 한번 더 시도합니다.
 
-![22.png](I/Post_img/WindowOS/InstallApacheTomcat/22.png)
+![22.png](/Post_img/WindowOS/InstallApacheTomcat/22.png)
 
 Tomcat Version 선택 후 설치한 JDK 디렉토리 입력 후 아직 Project 생성 전이니, Finish 를 클릭합니다.
 
