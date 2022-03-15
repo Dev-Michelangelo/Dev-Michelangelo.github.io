@@ -5,6 +5,16 @@ categories: [WindowOS, WebDev-Setting]
 tags: [setting]     # TAG names should always be lowercase
 ---
 
+---
+
+환경
+
+- 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.40 GHz, RAM: 8.00GB, 64bit, x64
+- WindowsOS 11
+- JAVA_VERSION="11.0.13”
+
+---
+
 Java programming 이 목적이라면 Eclipse 를 사용해도 관계 없지만, 목적이 Spring Web 개발이라면
 
 STS 를 선택하는 것도 좋은 방법입니다. 
