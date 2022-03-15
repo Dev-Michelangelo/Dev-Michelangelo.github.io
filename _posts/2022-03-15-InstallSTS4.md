@@ -12,6 +12,7 @@ tags: [setting]     # TAG names should always be lowercase
 - 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.40 GHz, RAM: 8.00GB, 64bit, x64
 - WindowsOS 11
 - JAVA_VERSION="11.0.13”
+- STS4 Version: 4.13.1.RELEASE, Build Id: 202201311654
 
 ---
 
