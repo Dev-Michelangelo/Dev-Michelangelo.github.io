@@ -73,3 +73,7 @@ CMD 에 `javac -version` `java -version` 을 입력해 설치를 확인합니다
 
 ⚠️ 'javac은(는) 내부 또는 외부 명령, 실행 할 수 있는 프로그램, 또는 배치 파일이 아닙니다' 
 응답 시, 환경변수 설정을 다시 확인합니다.
+
+⚠️  앞서 언급했지만, 최근버전의 eclipse 나 STS 를 사용해 Spring Legacy project 를 
+사용할 용도라면, Java 11 을 사용해야 합니다. Legacy Project 가 Java17 을 지원하지
+않기 때문입니다. Boot 를 사용한다면 관계 없습니다.
