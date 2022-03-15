@@ -6,9 +6,10 @@
 -
    type: stack-overflow
    icon: 'fab fa-stack-overflow'
-   url:  'https://stackoverflow.com/users/18460262/dev-michelangelo'   
-  #type: twitter
-  #icon: 'fab fa-twitter'
+   url:  'https://stackoverflow.com/users/18460262/dev-michelangelo'  
+- 
+   type: twitter
+   icon: 'fab fa-twitter'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -18,10 +19,10 @@
   icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
   url:  ''                  # Fill with your Linkedin homepage
 -
-  type: discord
-  icon: 'fab fa-discord'
-  url:  ''             # open link in current tab
--
+  #type: 
+  #icon: 'fab fa-discord'
+  #url:  ''             # open link in current tab
+#-
 #  type: rss
 #  icon: 'fas fa-rss'
 #  noblank: true
