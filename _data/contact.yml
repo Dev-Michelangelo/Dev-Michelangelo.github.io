@@ -14,11 +14,11 @@
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: instagram
-  icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Linkedin homepage
--
+#-
+  #type: instagram
+  #icon: 'fab fa-instagram'   # icons powered by <https://fontawesome.com/>
+  #url:  ''                  # Fill with your Linkedin homepage
+#-
   #type: 
   #icon: 'fab fa-discord'
   #url:  ''             # open link in current tab
