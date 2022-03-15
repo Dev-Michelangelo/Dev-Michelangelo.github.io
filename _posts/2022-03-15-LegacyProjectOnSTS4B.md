@@ -36,9 +36,9 @@ tags: [setting]     # TAG names should always be lowercase
 
 ## Check ini file
 
-Stack Overflow 를 보면, `ini file` 을 수정해 해결한 사례가 몇가지 있었습니다. 하지만 대부분 작성자의  
+Stack Overflow 를 보면, `ini file` 을 수정해 해결한 사례가 몇가지 있었습니다. 하지만 작성자의 경우 
 
-경우에는 적용되지 않았습니다. 여러 추론 끝에 아래의 방법으로 해결했습니다.
+적용되지 않았습니다. 여러 추론 끝에 아래의 방법으로 해결했습니다.
 
 ![6.png](/Post_img/WindowOS/LegacyProjectOnSTS4B/6.png)
 
@@ -49,7 +49,7 @@ plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116
 
 원본은 위와 같이 `-vm` 에 Open jdk 가 설정되어 있습니다. 아마 Open JDK 를 지원하지 않거나 
 
-작성자와 Java version 이 맞지 않거나 둘 중 하나라 생각해 기존의 내용을 지우고 
+작성자와 Java version 이 맞지 않거나 둘 중 하나라 생각해, 기존의 내용을 지우고 
 
 현재 설치한 Java11 의 path 를 작성해 구동했습니다. 
 
