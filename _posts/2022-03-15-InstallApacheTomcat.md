@@ -23,7 +23,7 @@ Server 연동에 Apache Tomcat 을 사용하려 합니다. 별다른 어려움�
 
 ![4.png](/Post_img/WindowOS/InstallApacheTomcat/4.png)
 
-Tomcat 웹사이트([https://tomcat.apache.org](https://tomcat.apache.org/)) 의 Which versions? 탭을 클릭해 Version 을 확인합니다.
+Tomcat 웹사이트([https://tomcat.apache.org](https://tomcat.apache.org/)) 의 `Which Versions?` 탭을 클릭해 Version 을 확인합니다.
 
 작성자는 Java11 을 사용하기 때문에 10.1.M10(alpha) 도 사용이 가능하지만, Maven repository 에 컨텐츠가
 
@@ -37,7 +37,7 @@ Download 탭에서 Version 을 선택하고 압축파일을 다운로드 합니�
 
 ![10.png](/Post_img/WindowOS/InstallApacheTomcat/10.png)
 
-STS4의 `View → Server` 탭에서 `No servers are~` 을 클릭, Tomcat version 을 선택합니다.
+STS4의 `View → Server` 탭에서 `No servers are~` 을 클릭, Tomcat Version 을 선택합니다.
 
 ![11.png](/Post_img/WindowOS/InstallApacheTomcat/11.png)
 
@@ -47,7 +47,7 @@ STS4의 `View → Server` 탭에서 `No servers are~` 을 클릭, Tomcat version
 
 ![15.png](/Post_img/WindowOS/InstallApacheTomcat/15.png)
 
-`Installed JRE` 를 선택하고 STS4 에 자체 내장된 Open JDK 가 아닌 설치한 Java 를 추가합니다. 
+`Installed JRE` 를 선택하고 STS4 에 자체 내장된 Open JDK 가 아닌 설치한 JDK 를 추가합니다. 
 
 Add 를 클릭합니다.
 
