@@ -1,5 +1,5 @@
 ---
-title: Legacy Project on STS4 - STS4 Legacy Project 생성
+title: Legacy Project on STS4 - STS4 Legacy Project 생성 A
 date: 2022-03-15 06:24:00 +09:00
 categories: [WindowOS, WebDev-Setting]
 tags: [setting]     # TAG names should always be lowercase
@@ -26,7 +26,7 @@ STS4 는 Spring Legacy project 를 지원하지 않습니다. 작성자는 오�
 
 ## STS3 Add-on for STS4
 
-STS3 를 사용하면 간단히 해결할 문제지만, 구버전을 사용하고 싶진 않아, 방법을 찾았습니다.
+STS3 를 사용하면 간단히 해결할 문제지만, 구버전을 사용하고 싶진 않아 방법을 찾았습니다.
 
 ![2.png](/Post_img/WindowOS/LegacyProjectOnSTS4/2.png)
 
@@ -66,7 +66,7 @@ Stack Overflow 를 한참 뒤졌는데도 나오지 않아 여러가지 실험�
 
 필요한 Tools 은 Database Development, Web, Xml ~ 이기 때문에, 작성자는 두가지만 체크했습니다.
 
-MarketPlace 와 설치방법은 동일합니다. `Next → accept` 합니다.
+Market Place 와 설치방법은 동일합니다. `Next → accept` 합니다.
 
 ![20.png](/Post_img/WindowOS/LegacyProjectOnSTS4/20.png)
 
@@ -78,7 +78,7 @@ Data Source Explorer 가 Show view 에 생성되었고, 나머지도 원하는 �
 
 ## UTF-8 Setting
 
-한글이 깨지면 곤란하기에, UTF-8 세팅을 해줘야 합니다.
+한글이 깨지면 곤란하기에, UTF-8 세팅을 해줍니다.
 
 ### CSS
 
