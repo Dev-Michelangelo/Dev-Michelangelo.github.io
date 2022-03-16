@@ -18,7 +18,7 @@ tags: [setting]     # TAG names should always be lowercase
 
 작성자는 그동안 Oracle 11gXE 를 사용했었는데, 11g 가 서비스가 종료되어 더이상 다운로드 받을 수 없어
 
-가장 최신 버전인 21C 를 사용하였습니다.
+이렇게 된 김에 가장 최신 버전인 21C 를 사용하였습니다.
 
 💡Info of 21C : [https://docs.oracle.com/en/database/oracle/oracle-database/21/whats-new.html](https://docs.oracle.com/en/database/oracle/oracle-database/21/whats-new.html)  
 
