@@ -27,7 +27,7 @@ CMD 에 `sqlplus` 를 입력해 SQL 을 실행합니다.
 
 ![1.png](/Post_img/WindowOS/CreatingAnOracleDatabaseUser/1.png)
 
-권한 부여를 위해 관리자 계정 로그인 해준 뒤, `conn/as sysdba` 명령을 통해 Oracle `sysdba` 에 접속합니다.
+권한 부여를 위해 관리자 계정 로그인 한 뒤, `conn/as sysdba` 명령을 통해 Oracle `sysdba` 에 접속합니다.
 
 이후 아래 명령을 통해 계정을 생성합니다.
 
