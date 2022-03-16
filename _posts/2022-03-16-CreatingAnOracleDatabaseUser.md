@@ -47,7 +47,7 @@ alter user <ID> identified by <PW>;
 
 Oracle12c Version 이후 부터 계정 생성및 권한 부여 시, ID 값 앞에 c##을 붙여줘야 합니다.
 
-번거롭다면 참고: 
+번거롭다면 참고: [https://dev-michelangelo.github.io/posts/Ora65096InvalidCommonUserOrRoleName/](https://dev-michelangelo.github.io/posts/Ora65096InvalidCommonUserOrRoleName/)
 
 ## A**uthorization**
 
