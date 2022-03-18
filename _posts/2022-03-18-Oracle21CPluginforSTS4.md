@@ -51,9 +51,9 @@ OJDBC11 을 사용합니다. Download 후 압축해제 합니다.
 
 `JAR List` 탭에서 OJDBC 14 를 삭제한 후 이전 과정에서 설치한 OJDBC 를 연결합니다. 항상 JAR List 에 14이
 
-디폴트로 설정되어 있던데, 이유가 궁금하니 다음에 한번 찾아봐야겠습니다. `Properties`` 를 확인하고 종료합니다.
+디폴트로 설정되어 있던데, 이유가 궁금하니 다음에 한번 찾아봐야겠습니다. `Properties` 를 확인하고 종료합니다.
 
-![9.png](O/Post_img/WindowOS/Oracle21C%20Plugin%20for%20STS4%20/9.png)
+![9.png](/Post_img/WindowOS/Oracle21C%20Plugin%20for%20STS4%20/9.png)
 
 `DataBase Instance` 를 `SID` 로 체크하고 전역 데이터 베이스명을 입력합니다. 
 
