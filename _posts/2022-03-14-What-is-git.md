@@ -2,7 +2,7 @@
 title: What is git? - git에 관하여
 date: 2022-03-14 04:30:00 +09:00
 categories: [Git, git]
-tags: [what is]     # TAG names should always be lowercase
+tags: [what_is]     # TAG names should always be lowercase
 ---
 ---
 

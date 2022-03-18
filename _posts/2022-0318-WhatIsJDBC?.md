@@ -2,7 +2,7 @@
 title: What is JDBC? - JDBC에 관하여
 date: 2022-03-18 04:45:00 +09:00
 categories: [Language, Java]
-tags: [what is]     # TAG names should always be lowercase
+tags: [what_is]     # TAG names should always be lowercase
 ---
 
 ## Java Database Connectivity
